@@ -1,0 +1,44 @@
+2025-07-11 19:40:29,783 - sistema_spec_logger - INFO - gui_app:1775 - A executar migrações da base de dados, se necessário...
+2025-07-11 19:40:29,785 - sistema_spec_logger - DEBUG - gui_app:1781 - Tabela 'notifications' já tem colunas entity_id, entity_type.
+2025-07-11 19:40:29,785 - sistema_spec_logger - DEBUG - gui_app:1801 - Tabela 'service_orders' já tem colunas de data e status de pagamento.
+2025-07-11 19:40:29,785 - sistema_spec_logger - DEBUG - gui_app:1817 - Tabela 'sales' já tem a coluna 'is_quote'.
+2025-07-11 19:40:29,786 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: User
+2025-07-11 19:40:29,787 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Customer
+2025-07-11 19:40:29,788 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Supplier
+2025-07-11 19:40:29,789 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Part
+2025-07-11 19:40:29,790 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Sale
+2025-07-11 19:40:29,791 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: SaleItem
+2025-07-11 19:40:29,791 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: ServiceOrder
+2025-07-11 19:40:29,792 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: ServiceOrderItem
+2025-07-11 19:40:29,793 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: FinancialTransaction
+2025-07-11 19:40:29,793 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Notification
+2025-07-11 19:40:29,794 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Report
+2025-07-11 19:40:29,794 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Setting
+2025-07-11 19:40:29,794 - sistema_spec_logger - INFO - gui_app:1831 - Verificação e migração de tabelas de banco de dados concluídas.
+2025-07-11 19:40:29,802 - sistema_spec_logger - INFO - gui_app:1771 - Componentes da aplicação inicializados.
+2025-07-11 19:40:29,804 - sistema_spec_logger - INFO - gui_app:1847 - Tema aplicado com cor: #55ff00
+2025-07-11 19:40:29,908 - sistema_spec_logger - INFO - gui_app:1909 - Interface do usuário configurada.
+2025-07-11 19:40:29,910 - sistema_spec_logger - INFO - gui_app:3931 - Conexões de UI configuradas.
+2025-07-11 19:41:44,283 - sistema_spec_logger - INFO - gui_app:1775 - A executar migrações da base de dados, se necessário...
+2025-07-11 19:41:44,284 - sistema_spec_logger - DEBUG - gui_app:1781 - Tabela 'notifications' já tem colunas entity_id, entity_type.
+2025-07-11 19:41:44,284 - sistema_spec_logger - DEBUG - gui_app:1801 - Tabela 'service_orders' já tem colunas de data e status de pagamento.
+2025-07-11 19:41:44,285 - sistema_spec_logger - DEBUG - gui_app:1817 - Tabela 'sales' já tem a coluna 'is_quote'.
+2025-07-11 19:41:44,285 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: User
+2025-07-11 19:41:44,286 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Customer
+2025-07-11 19:41:44,286 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Supplier
+2025-07-11 19:41:44,287 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Part
+2025-07-11 19:41:44,288 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Sale
+2025-07-11 19:41:44,289 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: SaleItem
+2025-07-11 19:41:44,289 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: ServiceOrder
+2025-07-11 19:41:44,290 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: ServiceOrderItem
+2025-07-11 19:41:44,291 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: FinancialTransaction
+2025-07-11 19:41:44,291 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Notification
+2025-07-11 19:41:44,292 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Report
+2025-07-11 19:41:44,292 - sistema_spec_logger - DEBUG - gui_app:1839 - Verificada/criada tabela para o modelo: Setting
+2025-07-11 19:41:44,292 - sistema_spec_logger - INFO - gui_app:1831 - Verificação e migração de tabelas de banco de dados concluídas.
+2025-07-11 19:41:44,301 - sistema_spec_logger - INFO - gui_app:1771 - Componentes da aplicação inicializados.
+2025-07-11 19:41:44,303 - sistema_spec_logger - INFO - gui_app:1847 - Tema aplicado com cor: #55ff00
+2025-07-11 19:41:44,374 - sistema_spec_logger - INFO - gui_app:1909 - Interface do usuário configurada.
+2025-07-11 19:41:44,375 - sistema_spec_logger - INFO - gui_app:3931 - Conexões de UI configuradas.
+2025-07-11 19:41:46,501 - sistema_spec_logger - INFO - gui_app:2493 - Login cancelado ou falhou. Fechando aplicação.
+2025-07-11 19:41:46,504 - sistema_spec_logger - INFO - gui_app:2484 - Fluxo de login inicial iniciado.

@@ -1,0 +1,6 @@
+PySide6
+bcrypt
+requests
+pandas
+openpyxl
+fpdf2

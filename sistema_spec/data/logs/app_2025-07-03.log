@@ -1,0 +1,329 @@
+2025-07-03 07:03:52,559 - sistema_spec_logger - INFO - gui_app:1595 - A executar migrações da base de dados, se necessário...
+2025-07-03 07:03:52,564 - sistema_spec_logger - DEBUG - gui_app:1601 - Tabela 'notifications' já tem colunas entity_id, entity_type.
+2025-07-03 07:03:52,564 - sistema_spec_logger - DEBUG - gui_app:1621 - Tabela 'service_orders' já tem colunas de data e status de pagamento.
+2025-07-03 07:03:52,565 - sistema_spec_logger - DEBUG - gui_app:1637 - Tabela 'sales' já tem a coluna 'is_quote'.
+2025-07-03 07:03:52,565 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: User
+2025-07-03 07:03:52,566 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Customer
+2025-07-03 07:03:52,566 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Supplier
+2025-07-03 07:03:52,566 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Part
+2025-07-03 07:03:52,567 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Sale
+2025-07-03 07:03:52,567 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: SaleItem
+2025-07-03 07:03:52,568 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: ServiceOrder
+2025-07-03 07:03:52,568 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: ServiceOrderItem
+2025-07-03 07:03:52,568 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: FinancialTransaction
+2025-07-03 07:03:52,569 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Notification
+2025-07-03 07:03:52,569 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Report
+2025-07-03 07:03:52,570 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Setting
+2025-07-03 07:03:52,570 - sistema_spec_logger - INFO - gui_app:1651 - Verificação e migração de tabelas de banco de dados concluídas.
+2025-07-03 07:03:52,575 - sistema_spec_logger - INFO - gui_app:1591 - Componentes da aplicação inicializados.
+2025-07-03 07:03:52,581 - sistema_spec_logger - INFO - gui_app:1667 - Tema aplicado com cor: #0d47a1
+2025-07-03 07:03:52,699 - sistema_spec_logger - INFO - gui_app:1729 - Interface do usuário configurada.
+2025-07-03 07:03:52,700 - sistema_spec_logger - INFO - gui_app:3720 - Conexões de UI configuradas.
+2025-07-03 07:04:00,643 - sistema_spec_logger - INFO - gui_app:3610 - Permissões da UI atualizadas para o papel do usuário: Administrador
+2025-07-03 07:04:00,643 - sistema_spec_logger - INFO - gui_app:3183 - Iniciando carregamento de todos os dados.
+2025-07-03 07:04:00,644 - sistema_spec_logger - INFO - gui_app:3209 - Carregados 1 usuários na tabela de Gerenciar Usuários.
+2025-07-03 07:04:00,644 - sistema_spec_logger - INFO - gui_app:3229 - Carregados 1 clientes na tabela de Clientes.
+2025-07-03 07:04:00,645 - sistema_spec_logger - INFO - gui_app:3248 - Carregados 0 fornecedores na tabela de Fornecedores.
+2025-07-03 07:04:00,646 - sistema_spec_logger - INFO - gui_app:3281 - Carregados 4 peças/estoque na tabela de Peças/Estoque.
+2025-07-03 07:04:00,646 - sistema_spec_logger - INFO - gui_app:3315 - Carregados 3 vendas na tabela de Vendas com filtros.
+2025-07-03 07:04:00,648 - sistema_spec_logger - INFO - gui_app:3356 - Carregadas 0 Ordens de Serviço na tabela de Ordens de Serviço com filtros.
+2025-07-03 07:04:00,648 - sistema_spec_logger - INFO - gui_app:3384 - Carregadas 1 transações financeiras na tabela Financeiro com filtros.
+2025-07-03 07:04:00,649 - sistema_spec_logger - INFO - gui_app:3404 - Carregados 0 metadados de relatórios na tabela de Relatórios.
+2025-07-03 07:04:00,650 - sistema_spec_logger - INFO - gui_app:3458 - Carregadas 2 notificações na tabela de Notificações.
+2025-07-03 07:04:00,650 - sistema_spec_logger - INFO - gui_app:3524 - Atualizando estatísticas do Dashboard.
+2025-07-03 07:04:00,652 - sistema_spec_logger - INFO - gui_app:3540 - Estatísticas do Dashboard atualizadas: Estoque Baixo=0, Balanço=20.00, Vendas=20.00, OS Pendentes=0.
+2025-07-03 07:04:00,652 - sistema_spec_logger - INFO - gui_app:3194 - Carregamento de todos os dados concluído.
+2025-07-03 07:04:00,665 - sistema_spec_logger - INFO - gui_app:2128 - Campos de configurações populados.
+2025-07-03 07:04:00,665 - sistema_spec_logger - INFO - gui_app:3183 - Iniciando carregamento de todos os dados.
+2025-07-03 07:04:00,666 - sistema_spec_logger - INFO - gui_app:3209 - Carregados 1 usuários na tabela de Gerenciar Usuários.
+2025-07-03 07:04:00,667 - sistema_spec_logger - INFO - gui_app:3229 - Carregados 1 clientes na tabela de Clientes.
+2025-07-03 07:04:00,667 - sistema_spec_logger - INFO - gui_app:3248 - Carregados 0 fornecedores na tabela de Fornecedores.
+2025-07-03 07:04:00,668 - sistema_spec_logger - INFO - gui_app:3281 - Carregados 4 peças/estoque na tabela de Peças/Estoque.
+2025-07-03 07:04:00,669 - sistema_spec_logger - INFO - gui_app:3315 - Carregados 3 vendas na tabela de Vendas com filtros.
+2025-07-03 07:04:00,670 - sistema_spec_logger - INFO - gui_app:3356 - Carregadas 0 Ordens de Serviço na tabela de Ordens de Serviço com filtros.
+2025-07-03 07:04:00,670 - sistema_spec_logger - INFO - gui_app:3384 - Carregadas 1 transações financeiras na tabela Financeiro com filtros.
+2025-07-03 07:04:00,671 - sistema_spec_logger - INFO - gui_app:3404 - Carregados 0 metadados de relatórios na tabela de Relatórios.
+2025-07-03 07:04:00,671 - sistema_spec_logger - INFO - gui_app:3458 - Carregadas 2 notificações na tabela de Notificações.
+2025-07-03 07:04:00,671 - sistema_spec_logger - INFO - gui_app:3524 - Atualizando estatísticas do Dashboard.
+2025-07-03 07:04:00,674 - sistema_spec_logger - INFO - gui_app:3540 - Estatísticas do Dashboard atualizadas: Estoque Baixo=0, Balanço=20.00, Vendas=20.00, OS Pendentes=0.
+2025-07-03 07:04:00,674 - sistema_spec_logger - INFO - gui_app:3194 - Carregamento de todos os dados concluído.
+2025-07-03 07:04:00,674 - sistema_spec_logger - INFO - gui_app:3473 - Contador de notificações não lidas atualizado: 2.
+2025-07-03 07:04:00,675 - sistema_spec_logger - INFO - gui_app:2281 - Evento ShowEvent disparado, dados e configurações carregados.
+2025-07-03 07:04:00,683 - sistema_spec_logger - INFO - gui_app:3473 - Contador de notificações não lidas atualizado: 2.
+2025-07-03 07:04:00,683 - sistema_spec_logger - INFO - gui_app:2312 - Usuário admin logado e UI atualizada.
+2025-07-03 07:04:00,689 - sistema_spec_logger - INFO - gui_app:134 - Usuário admin logado com sucesso.
+2025-07-03 07:04:00,691 - sistema_spec_logger - INFO - gui_app:2292 - Fluxo de login inicial iniciado.
+2025-07-03 07:04:16,090 - sistema_spec_logger - INFO - gui_app:2616 - Abrindo diálogo para adicionar nova venda/orçamento.
+2025-07-03 07:04:22,844 - sistema_spec_logger - WARNING - gui_app:910 - Tentativa de adicionar item de venda sem peça selecionada.
+2025-07-03 07:14:31,153 - sistema_spec_logger - INFO - gui_app:2384 - Abrindo diálogo para adicionar novo cliente.
+2025-07-03 07:14:36,752 - sistema_spec_logger - INFO - gui_app:2384 - Abrindo diálogo para adicionar novo cliente.
+2025-07-03 07:14:39,840 - sistema_spec_logger - WARNING - gui_app:2403 - Tentativa de editar cliente sem seleção.
+2025-07-03 07:14:41,728 - sistema_spec_logger - INFO - gui_app:2384 - Abrindo diálogo para adicionar novo cliente.
+2025-07-03 20:05:11,543 - sistema_spec_logger - INFO - gui_app:1595 - A executar migrações da base de dados, se necessário...
+2025-07-03 20:05:11,550 - sistema_spec_logger - DEBUG - gui_app:1601 - Tabela 'notifications' já tem colunas entity_id, entity_type.
+2025-07-03 20:05:11,550 - sistema_spec_logger - DEBUG - gui_app:1621 - Tabela 'service_orders' já tem colunas de data e status de pagamento.
+2025-07-03 20:05:11,550 - sistema_spec_logger - DEBUG - gui_app:1637 - Tabela 'sales' já tem a coluna 'is_quote'.
+2025-07-03 20:05:17,023 - sistema_spec_logger - CRITICAL - gui_app:1661 - Erro CRÍTICO ao criar tabela para User: database is locked
+Traceback (most recent call last):
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\gui_app.py", line 1658, in _create_db_tables_if_not_exist
+    model._create_table()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\models\user_model.py", line 32, in _create_table
+    cursor.execute(f"CREATE INDEX IF NOT EXISTS idx_users_username ON {cls._table_name} (username COLLATE NOCASE)")
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+2025-07-03 20:05:22,503 - sistema_spec_logger - CRITICAL - gui_app:1661 - Erro CRÍTICO ao criar tabela para Customer: database is locked
+Traceback (most recent call last):
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\gui_app.py", line 1658, in _create_db_tables_if_not_exist
+    model._create_table()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\models\customer_model.py", line 44, in _create_table
+    cursor.execute(f"CREATE INDEX IF NOT EXISTS idx_customers_name ON {cls._table_name} (name COLLATE NOCASE)")
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+2025-07-03 20:05:27,981 - sistema_spec_logger - CRITICAL - gui_app:1661 - Erro CRÍTICO ao criar tabela para Supplier: database is locked
+Traceback (most recent call last):
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\gui_app.py", line 1658, in _create_db_tables_if_not_exist
+    model._create_table()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\models\supplier_model.py", line 38, in _create_table
+    cursor.execute(f"CREATE INDEX IF NOT EXISTS idx_suppliers_name ON {cls._table_name} (name COLLATE NOCASE)")
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+2025-07-03 20:05:33,457 - sistema_spec_logger - CRITICAL - gui_app:1661 - Erro CRÍTICO ao criar tabela para Part: database is locked
+Traceback (most recent call last):
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\gui_app.py", line 1658, in _create_db_tables_if_not_exist
+    model._create_table()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\models\part_model.py", line 63, in _create_table
+    cursor.execute(f"CREATE INDEX IF NOT EXISTS idx_parts_name ON {cls._table_name} (name COLLATE NOCASE)")
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+2025-07-03 20:05:38,943 - sistema_spec_logger - CRITICAL - gui_app:1661 - Erro CRÍTICO ao criar tabela para Sale: database is locked
+Traceback (most recent call last):
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\gui_app.py", line 1658, in _create_db_tables_if_not_exist
+    model._create_table()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\models\sale_model.py", line 48, in _create_table
+    cursor.execute(f"CREATE INDEX IF NOT EXISTS idx_sales_customer_id ON {cls._table_name} (customer_id)")
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+2025-07-03 20:05:44,420 - sistema_spec_logger - CRITICAL - gui_app:1661 - Erro CRÍTICO ao criar tabela para SaleItem: database is locked
+Traceback (most recent call last):
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\gui_app.py", line 1658, in _create_db_tables_if_not_exist
+    model._create_table()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\models\sale_model.py", line 85, in _create_table
+    cursor.execute(f"CREATE INDEX IF NOT EXISTS idx_sale_items_sale_id ON {cls._table_name} (sale_id)")
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+2025-07-03 20:05:49,892 - sistema_spec_logger - CRITICAL - gui_app:1661 - Erro CRÍTICO ao criar tabela para ServiceOrder: database is locked
+Traceback (most recent call last):
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\gui_app.py", line 1658, in _create_db_tables_if_not_exist
+    model._create_table()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\models\service_order_model.py", line 64, in _create_table
+    cursor.execute(f"CREATE INDEX IF NOT EXISTS idx_service_orders_customer_id ON {cls._table_name} (customer_id)")
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+2025-07-03 20:05:55,368 - sistema_spec_logger - CRITICAL - gui_app:1661 - Erro CRÍTICO ao criar tabela para ServiceOrderItem: database is locked
+Traceback (most recent call last):
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\gui_app.py", line 1658, in _create_db_tables_if_not_exist
+    model._create_table()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\models\service_order_model.py", line 107, in _create_table
+    cursor.execute(f"CREATE INDEX IF NOT EXISTS idx_service_order_items_so_id ON {cls._table_name} (service_order_id)")
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+2025-07-03 20:06:00,847 - sistema_spec_logger - CRITICAL - gui_app:1661 - Erro CRÍTICO ao criar tabela para FinancialTransaction: database is locked
+Traceback (most recent call last):
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\gui_app.py", line 1658, in _create_db_tables_if_not_exist
+    model._create_table()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\models\financial_transaction_model.py", line 42, in _create_table
+    cursor.execute(f"CREATE INDEX IF NOT EXISTS idx_financial_transactions_date ON {cls._table_name} (transaction_date)")
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+2025-07-03 20:06:06,324 - sistema_spec_logger - CRITICAL - gui_app:1661 - Erro CRÍTICO ao criar tabela para Notification: database is locked
+Traceback (most recent call last):
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\gui_app.py", line 1658, in _create_db_tables_if_not_exist
+    model._create_table()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\models\notification_model.py", line 36, in _create_table
+    cursor.execute(f"CREATE INDEX IF NOT EXISTS idx_notifications_timestamp ON {cls._table_name} (timestamp DESC)")
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+2025-07-03 20:06:11,799 - sistema_spec_logger - CRITICAL - gui_app:1661 - Erro CRÍTICO ao criar tabela para Report: database is locked
+Traceback (most recent call last):
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\gui_app.py", line 1658, in _create_db_tables_if_not_exist
+    model._create_table()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\ricar\Documents\sistema_spec1.7\sistema_spec\models\report_model.py", line 35, in _create_table
+    cursor.execute(f"CREATE INDEX IF NOT EXISTS idx_reports_type ON {cls._table_name} (report_type COLLATE NOCASE)")
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+2025-07-03 20:06:11,801 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Setting
+2025-07-03 20:06:11,801 - sistema_spec_logger - INFO - gui_app:1651 - Verificação e migração de tabelas de banco de dados concluídas.
+2025-07-03 20:06:11,938 - sistema_spec_logger - INFO - gui_app:1591 - Componentes da aplicação inicializados.
+2025-07-03 20:06:11,946 - sistema_spec_logger - INFO - gui_app:1667 - Tema aplicado com cor: #0d47a1
+2025-07-03 20:06:12,067 - sistema_spec_logger - INFO - gui_app:1729 - Interface do usuário configurada.
+2025-07-03 20:06:12,069 - sistema_spec_logger - INFO - gui_app:3720 - Conexões de UI configuradas.
+2025-07-03 20:27:23,839 - sistema_spec_logger - INFO - gui_app:3610 - Permissões da UI atualizadas para o papel do usuário: Administrador
+2025-07-03 20:27:23,839 - sistema_spec_logger - INFO - gui_app:3183 - Iniciando carregamento de todos os dados.
+2025-07-03 20:27:23,841 - sistema_spec_logger - INFO - gui_app:3209 - Carregados 1 usuários na tabela de Gerenciar Usuários.
+2025-07-03 20:27:23,842 - sistema_spec_logger - INFO - gui_app:3229 - Carregados 1 clientes na tabela de Clientes.
+2025-07-03 20:27:23,843 - sistema_spec_logger - INFO - gui_app:3248 - Carregados 0 fornecedores na tabela de Fornecedores.
+2025-07-03 20:27:23,844 - sistema_spec_logger - INFO - gui_app:3281 - Carregados 4 peças/estoque na tabela de Peças/Estoque.
+2025-07-03 20:27:23,844 - sistema_spec_logger - INFO - gui_app:3315 - Carregados 3 vendas na tabela de Vendas com filtros.
+2025-07-03 20:27:23,846 - sistema_spec_logger - INFO - gui_app:3356 - Carregadas 0 Ordens de Serviço na tabela de Ordens de Serviço com filtros.
+2025-07-03 20:27:23,847 - sistema_spec_logger - INFO - gui_app:3384 - Carregadas 1 transações financeiras na tabela Financeiro com filtros.
+2025-07-03 20:27:23,848 - sistema_spec_logger - INFO - gui_app:3404 - Carregados 0 metadados de relatórios na tabela de Relatórios.
+2025-07-03 20:27:23,850 - sistema_spec_logger - INFO - gui_app:3458 - Carregadas 2 notificações na tabela de Notificações.
+2025-07-03 20:27:23,851 - sistema_spec_logger - INFO - gui_app:3524 - Atualizando estatísticas do Dashboard.
+2025-07-03 20:27:23,854 - sistema_spec_logger - INFO - gui_app:3540 - Estatísticas do Dashboard atualizadas: Estoque Baixo=0, Balanço=20.00, Vendas=20.00, OS Pendentes=0.
+2025-07-03 20:27:23,854 - sistema_spec_logger - INFO - gui_app:3194 - Carregamento de todos os dados concluído.
+2025-07-03 20:27:23,869 - sistema_spec_logger - INFO - gui_app:2128 - Campos de configurações populados.
+2025-07-03 20:27:23,869 - sistema_spec_logger - INFO - gui_app:3183 - Iniciando carregamento de todos os dados.
+2025-07-03 20:27:23,870 - sistema_spec_logger - INFO - gui_app:3209 - Carregados 1 usuários na tabela de Gerenciar Usuários.
+2025-07-03 20:27:23,872 - sistema_spec_logger - INFO - gui_app:3229 - Carregados 1 clientes na tabela de Clientes.
+2025-07-03 20:27:23,872 - sistema_spec_logger - INFO - gui_app:3248 - Carregados 0 fornecedores na tabela de Fornecedores.
+2025-07-03 20:27:23,873 - sistema_spec_logger - INFO - gui_app:3281 - Carregados 4 peças/estoque na tabela de Peças/Estoque.
+2025-07-03 20:27:23,874 - sistema_spec_logger - INFO - gui_app:3315 - Carregados 3 vendas na tabela de Vendas com filtros.
+2025-07-03 20:27:23,875 - sistema_spec_logger - INFO - gui_app:3356 - Carregadas 0 Ordens de Serviço na tabela de Ordens de Serviço com filtros.
+2025-07-03 20:27:23,876 - sistema_spec_logger - INFO - gui_app:3384 - Carregadas 1 transações financeiras na tabela Financeiro com filtros.
+2025-07-03 20:27:23,877 - sistema_spec_logger - INFO - gui_app:3404 - Carregados 0 metadados de relatórios na tabela de Relatórios.
+2025-07-03 20:27:23,877 - sistema_spec_logger - INFO - gui_app:3458 - Carregadas 2 notificações na tabela de Notificações.
+2025-07-03 20:27:23,878 - sistema_spec_logger - INFO - gui_app:3524 - Atualizando estatísticas do Dashboard.
+2025-07-03 20:27:23,880 - sistema_spec_logger - INFO - gui_app:3540 - Estatísticas do Dashboard atualizadas: Estoque Baixo=0, Balanço=20.00, Vendas=20.00, OS Pendentes=0.
+2025-07-03 20:27:23,881 - sistema_spec_logger - INFO - gui_app:3194 - Carregamento de todos os dados concluído.
+2025-07-03 20:27:23,882 - sistema_spec_logger - INFO - gui_app:3473 - Contador de notificações não lidas atualizado: 2.
+2025-07-03 20:27:23,882 - sistema_spec_logger - INFO - gui_app:2281 - Evento ShowEvent disparado, dados e configurações carregados.
+2025-07-03 20:27:23,894 - sistema_spec_logger - INFO - gui_app:3473 - Contador de notificações não lidas atualizado: 2.
+2025-07-03 20:27:23,894 - sistema_spec_logger - INFO - gui_app:2312 - Usuário admin logado e UI atualizada.
+2025-07-03 20:27:23,903 - sistema_spec_logger - INFO - gui_app:134 - Usuário admin logado com sucesso.
+2025-07-03 20:27:23,907 - sistema_spec_logger - INFO - gui_app:2292 - Fluxo de login inicial iniciado.
+2025-07-03 20:27:29,778 - sistema_spec_logger - INFO - gui_app:2616 - Abrindo diálogo para adicionar nova venda/orçamento.
+2025-07-03 20:46:44,066 - sistema_spec_logger - INFO - gui_app:1595 - A executar migrações da base de dados, se necessário...
+2025-07-03 20:46:44,068 - sistema_spec_logger - DEBUG - gui_app:1601 - Tabela 'notifications' já tem colunas entity_id, entity_type.
+2025-07-03 20:46:44,068 - sistema_spec_logger - DEBUG - gui_app:1621 - Tabela 'service_orders' já tem colunas de data e status de pagamento.
+2025-07-03 20:46:44,068 - sistema_spec_logger - DEBUG - gui_app:1637 - Tabela 'sales' já tem a coluna 'is_quote'.
+2025-07-03 20:46:44,069 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: User
+2025-07-03 20:46:44,070 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Customer
+2025-07-03 20:46:44,070 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Supplier
+2025-07-03 20:46:44,071 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Part
+2025-07-03 20:46:44,072 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Sale
+2025-07-03 20:46:44,072 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: SaleItem
+2025-07-03 20:46:44,073 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: ServiceOrder
+2025-07-03 20:46:44,074 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: ServiceOrderItem
+2025-07-03 20:46:44,074 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: FinancialTransaction
+2025-07-03 20:46:44,075 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Notification
+2025-07-03 20:46:44,076 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Report
+2025-07-03 20:46:44,076 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Setting
+2025-07-03 20:46:44,076 - sistema_spec_logger - INFO - gui_app:1651 - Verificação e migração de tabelas de banco de dados concluídas.
+2025-07-03 20:46:44,085 - sistema_spec_logger - INFO - gui_app:1591 - Componentes da aplicação inicializados.
+2025-07-03 20:46:44,086 - sistema_spec_logger - INFO - gui_app:1667 - Tema aplicado com cor: #0d47a1
+2025-07-03 20:46:44,159 - sistema_spec_logger - INFO - gui_app:1729 - Interface do usuário configurada.
+2025-07-03 20:46:44,161 - sistema_spec_logger - INFO - gui_app:3720 - Conexões de UI configuradas.
+2025-07-03 20:47:01,223 - sistema_spec_logger - INFO - gui_app:3610 - Permissões da UI atualizadas para o papel do usuário: Administrador
+2025-07-03 20:47:01,224 - sistema_spec_logger - INFO - gui_app:3183 - Iniciando carregamento de todos os dados.
+2025-07-03 20:47:01,225 - sistema_spec_logger - INFO - gui_app:3209 - Carregados 1 usuários na tabela de Gerenciar Usuários.
+2025-07-03 20:47:01,225 - sistema_spec_logger - INFO - gui_app:3229 - Carregados 1 clientes na tabela de Clientes.
+2025-07-03 20:47:01,226 - sistema_spec_logger - INFO - gui_app:3248 - Carregados 0 fornecedores na tabela de Fornecedores.
+2025-07-03 20:47:01,227 - sistema_spec_logger - INFO - gui_app:3281 - Carregados 4 peças/estoque na tabela de Peças/Estoque.
+2025-07-03 20:47:01,228 - sistema_spec_logger - INFO - gui_app:3315 - Carregados 3 vendas na tabela de Vendas com filtros.
+2025-07-03 20:47:01,230 - sistema_spec_logger - INFO - gui_app:3356 - Carregadas 0 Ordens de Serviço na tabela de Ordens de Serviço com filtros.
+2025-07-03 20:47:01,231 - sistema_spec_logger - INFO - gui_app:3384 - Carregadas 1 transações financeiras na tabela Financeiro com filtros.
+2025-07-03 20:47:01,232 - sistema_spec_logger - INFO - gui_app:3404 - Carregados 0 metadados de relatórios na tabela de Relatórios.
+2025-07-03 20:47:01,233 - sistema_spec_logger - INFO - gui_app:3458 - Carregadas 2 notificações na tabela de Notificações.
+2025-07-03 20:47:01,233 - sistema_spec_logger - INFO - gui_app:3524 - Atualizando estatísticas do Dashboard.
+2025-07-03 20:47:01,237 - sistema_spec_logger - INFO - gui_app:3540 - Estatísticas do Dashboard atualizadas: Estoque Baixo=0, Balanço=20.00, Vendas=20.00, OS Pendentes=0.
+2025-07-03 20:47:01,237 - sistema_spec_logger - INFO - gui_app:3194 - Carregamento de todos os dados concluído.
+2025-07-03 20:47:01,247 - sistema_spec_logger - INFO - gui_app:2128 - Campos de configurações populados.
+2025-07-03 20:47:01,248 - sistema_spec_logger - INFO - gui_app:3183 - Iniciando carregamento de todos os dados.
+2025-07-03 20:47:01,249 - sistema_spec_logger - INFO - gui_app:3209 - Carregados 1 usuários na tabela de Gerenciar Usuários.
+2025-07-03 20:47:01,250 - sistema_spec_logger - INFO - gui_app:3229 - Carregados 1 clientes na tabela de Clientes.
+2025-07-03 20:47:01,251 - sistema_spec_logger - INFO - gui_app:3248 - Carregados 0 fornecedores na tabela de Fornecedores.
+2025-07-03 20:47:01,252 - sistema_spec_logger - INFO - gui_app:3281 - Carregados 4 peças/estoque na tabela de Peças/Estoque.
+2025-07-03 20:47:01,253 - sistema_spec_logger - INFO - gui_app:3315 - Carregados 3 vendas na tabela de Vendas com filtros.
+2025-07-03 20:47:01,253 - sistema_spec_logger - INFO - gui_app:3356 - Carregadas 0 Ordens de Serviço na tabela de Ordens de Serviço com filtros.
+2025-07-03 20:47:01,254 - sistema_spec_logger - INFO - gui_app:3384 - Carregadas 1 transações financeiras na tabela Financeiro com filtros.
+2025-07-03 20:47:01,255 - sistema_spec_logger - INFO - gui_app:3404 - Carregados 0 metadados de relatórios na tabela de Relatórios.
+2025-07-03 20:47:01,256 - sistema_spec_logger - INFO - gui_app:3458 - Carregadas 2 notificações na tabela de Notificações.
+2025-07-03 20:47:01,256 - sistema_spec_logger - INFO - gui_app:3524 - Atualizando estatísticas do Dashboard.
+2025-07-03 20:47:01,258 - sistema_spec_logger - INFO - gui_app:3540 - Estatísticas do Dashboard atualizadas: Estoque Baixo=0, Balanço=20.00, Vendas=20.00, OS Pendentes=0.
+2025-07-03 20:47:01,258 - sistema_spec_logger - INFO - gui_app:3194 - Carregamento de todos os dados concluído.
+2025-07-03 20:47:01,260 - sistema_spec_logger - INFO - gui_app:3473 - Contador de notificações não lidas atualizado: 2.
+2025-07-03 20:47:01,260 - sistema_spec_logger - INFO - gui_app:2281 - Evento ShowEvent disparado, dados e configurações carregados.
+2025-07-03 20:47:01,271 - sistema_spec_logger - INFO - gui_app:3473 - Contador de notificações não lidas atualizado: 2.
+2025-07-03 20:47:01,272 - sistema_spec_logger - INFO - gui_app:2312 - Usuário admin logado e UI atualizada.
+2025-07-03 20:47:01,280 - sistema_spec_logger - INFO - gui_app:134 - Usuário admin logado com sucesso.
+2025-07-03 20:47:01,282 - sistema_spec_logger - INFO - gui_app:2292 - Fluxo de login inicial iniciado.
+2025-07-03 20:47:05,180 - sistema_spec_logger - INFO - gui_app:2616 - Abrindo diálogo para adicionar nova venda/orçamento.
+2025-07-03 20:47:08,976 - sistema_spec_logger - WARNING - gui_app:910 - Tentativa de adicionar item de venda sem peça selecionada.
+2025-07-03 21:01:08,721 - sistema_spec_logger - INFO - gui_app:2616 - Abrindo diálogo para adicionar nova venda/orçamento.
+2025-07-03 22:11:00,955 - sistema_spec_logger - INFO - gui_app:1595 - A executar migrações da base de dados, se necessário...
+2025-07-03 22:11:00,961 - sistema_spec_logger - DEBUG - gui_app:1601 - Tabela 'notifications' já tem colunas entity_id, entity_type.
+2025-07-03 22:11:00,961 - sistema_spec_logger - DEBUG - gui_app:1621 - Tabela 'service_orders' já tem colunas de data e status de pagamento.
+2025-07-03 22:11:00,962 - sistema_spec_logger - DEBUG - gui_app:1637 - Tabela 'sales' já tem a coluna 'is_quote'.
+2025-07-03 22:11:00,962 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: User
+2025-07-03 22:11:00,963 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Customer
+2025-07-03 22:11:00,964 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Supplier
+2025-07-03 22:11:00,964 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Part
+2025-07-03 22:11:00,965 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Sale
+2025-07-03 22:11:00,966 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: SaleItem
+2025-07-03 22:11:00,966 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: ServiceOrder
+2025-07-03 22:11:00,967 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: ServiceOrderItem
+2025-07-03 22:11:00,968 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: FinancialTransaction
+2025-07-03 22:11:00,968 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Notification
+2025-07-03 22:11:00,969 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Report
+2025-07-03 22:11:00,969 - sistema_spec_logger - DEBUG - gui_app:1659 - Verificada/criada tabela para o modelo: Setting
+2025-07-03 22:11:00,969 - sistema_spec_logger - INFO - gui_app:1651 - Verificação e migração de tabelas de banco de dados concluídas.
+2025-07-03 22:11:00,977 - sistema_spec_logger - INFO - gui_app:1591 - Componentes da aplicação inicializados.
+2025-07-03 22:11:00,983 - sistema_spec_logger - INFO - gui_app:1667 - Tema aplicado com cor: #0d47a1
+2025-07-03 22:11:01,098 - sistema_spec_logger - INFO - gui_app:1729 - Interface do usuário configurada.
+2025-07-03 22:11:01,099 - sistema_spec_logger - INFO - gui_app:3720 - Conexões de UI configuradas.
+2025-07-03 22:11:05,942 - sistema_spec_logger - INFO - gui_app:3610 - Permissões da UI atualizadas para o papel do usuário: Administrador
+2025-07-03 22:11:05,942 - sistema_spec_logger - INFO - gui_app:3183 - Iniciando carregamento de todos os dados.
+2025-07-03 22:11:05,944 - sistema_spec_logger - INFO - gui_app:3209 - Carregados 1 usuários na tabela de Gerenciar Usuários.
+2025-07-03 22:11:05,944 - sistema_spec_logger - INFO - gui_app:3229 - Carregados 1 clientes na tabela de Clientes.
+2025-07-03 22:11:05,945 - sistema_spec_logger - INFO - gui_app:3248 - Carregados 0 fornecedores na tabela de Fornecedores.
+2025-07-03 22:11:05,946 - sistema_spec_logger - INFO - gui_app:3281 - Carregados 4 peças/estoque na tabela de Peças/Estoque.
+2025-07-03 22:11:05,946 - sistema_spec_logger - INFO - gui_app:3315 - Carregados 3 vendas na tabela de Vendas com filtros.
+2025-07-03 22:11:05,948 - sistema_spec_logger - INFO - gui_app:3356 - Carregadas 0 Ordens de Serviço na tabela de Ordens de Serviço com filtros.
+2025-07-03 22:11:05,949 - sistema_spec_logger - INFO - gui_app:3384 - Carregadas 1 transações financeiras na tabela Financeiro com filtros.
+2025-07-03 22:11:05,950 - sistema_spec_logger - INFO - gui_app:3404 - Carregados 0 metadados de relatórios na tabela de Relatórios.
+2025-07-03 22:11:05,951 - sistema_spec_logger - INFO - gui_app:3458 - Carregadas 2 notificações na tabela de Notificações.
+2025-07-03 22:11:05,951 - sistema_spec_logger - INFO - gui_app:3524 - Atualizando estatísticas do Dashboard.
+2025-07-03 22:11:05,954 - sistema_spec_logger - INFO - gui_app:3540 - Estatísticas do Dashboard atualizadas: Estoque Baixo=0, Balanço=20.00, Vendas=20.00, OS Pendentes=0.
+2025-07-03 22:11:05,954 - sistema_spec_logger - INFO - gui_app:3194 - Carregamento de todos os dados concluído.
+2025-07-03 22:11:05,968 - sistema_spec_logger - INFO - gui_app:2128 - Campos de configurações populados.
+2025-07-03 22:11:05,968 - sistema_spec_logger - INFO - gui_app:3183 - Iniciando carregamento de todos os dados.
+2025-07-03 22:11:05,969 - sistema_spec_logger - INFO - gui_app:3209 - Carregados 1 usuários na tabela de Gerenciar Usuários.
+2025-07-03 22:11:05,970 - sistema_spec_logger - INFO - gui_app:3229 - Carregados 1 clientes na tabela de Clientes.
+2025-07-03 22:11:05,970 - sistema_spec_logger - INFO - gui_app:3248 - Carregados 0 fornecedores na tabela de Fornecedores.
+2025-07-03 22:11:05,971 - sistema_spec_logger - INFO - gui_app:3281 - Carregados 4 peças/estoque na tabela de Peças/Estoque.
+2025-07-03 22:11:05,972 - sistema_spec_logger - INFO - gui_app:3315 - Carregados 3 vendas na tabela de Vendas com filtros.
+2025-07-03 22:11:05,973 - sistema_spec_logger - INFO - gui_app:3356 - Carregadas 0 Ordens de Serviço na tabela de Ordens de Serviço com filtros.
+2025-07-03 22:11:05,973 - sistema_spec_logger - INFO - gui_app:3384 - Carregadas 1 transações financeiras na tabela Financeiro com filtros.
+2025-07-03 22:11:05,974 - sistema_spec_logger - INFO - gui_app:3404 - Carregados 0 metadados de relatórios na tabela de Relatórios.
+2025-07-03 22:11:05,975 - sistema_spec_logger - INFO - gui_app:3458 - Carregadas 2 notificações na tabela de Notificações.
+2025-07-03 22:11:05,975 - sistema_spec_logger - INFO - gui_app:3524 - Atualizando estatísticas do Dashboard.
+2025-07-03 22:11:05,978 - sistema_spec_logger - INFO - gui_app:3540 - Estatísticas do Dashboard atualizadas: Estoque Baixo=0, Balanço=20.00, Vendas=20.00, OS Pendentes=0.
+2025-07-03 22:11:05,978 - sistema_spec_logger - INFO - gui_app:3194 - Carregamento de todos os dados concluído.
+2025-07-03 22:11:05,979 - sistema_spec_logger - INFO - gui_app:3473 - Contador de notificações não lidas atualizado: 2.
+2025-07-03 22:11:05,979 - sistema_spec_logger - INFO - gui_app:2281 - Evento ShowEvent disparado, dados e configurações carregados.
+2025-07-03 22:11:05,989 - sistema_spec_logger - INFO - gui_app:3473 - Contador de notificações não lidas atualizado: 2.
+2025-07-03 22:11:05,990 - sistema_spec_logger - INFO - gui_app:2312 - Usuário admin logado e UI atualizada.
+2025-07-03 22:11:05,994 - sistema_spec_logger - INFO - gui_app:134 - Usuário admin logado com sucesso.
+2025-07-03 22:11:05,996 - sistema_spec_logger - INFO - gui_app:2292 - Fluxo de login inicial iniciado.
+2025-07-03 22:11:09,135 - sistema_spec_logger - INFO - gui_app:2616 - Abrindo diálogo para adicionar nova venda/orçamento.
+2025-07-03 22:20:28,729 - sistema_spec_logger - INFO - gui_app:3458 - Carregadas 2 notificações na tabela de Notificações.
+2025-07-03 22:20:28,730 - sistema_spec_logger - INFO - gui_app:3473 - Contador de notificações não lidas atualizado: 0.
+2025-07-03 22:20:38,007 - sistema_spec_logger - INFO - gui_app:3458 - Carregadas 1 notificações na tabela de Notificações.
+2025-07-03 22:20:38,008 - sistema_spec_logger - INFO - gui_app:3473 - Contador de notificações não lidas atualizado: 0.
+2025-07-03 22:20:44,806 - sistema_spec_logger - INFO - gui_app:3458 - Carregadas 0 notificações na tabela de Notificações.
+2025-07-03 22:20:44,807 - sistema_spec_logger - INFO - gui_app:3473 - Contador de notificações não lidas atualizado: 0.
+2025-07-03 22:20:51,889 - sistema_spec_logger - INFO - gui_app:2506 - Abrindo diálogo para adicionar nova peça.
+2025-07-03 22:20:55,799 - sistema_spec_logger - WARNING - gui_app:2525 - Tentativa de editar peça sem seleção.
+2025-07-03 22:21:02,128 - sistema_spec_logger - INFO - gui_app:2531 - Abrindo diálogo para editar peça ID: 2 (PIVO PALIO).
+2025-07-03 22:21:41,776 - sistema_spec_logger - INFO - gui_app:2227 - Backup criado com sucesso: Backup criado com sucesso: autopeças_backup_20250703_222135.db
